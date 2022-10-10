@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background: rgb(168,85,240);
+    background: linear-gradient(90deg, rgba(168,85,240,1) 0%, rgba(236,72,153,1) 100%);
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
